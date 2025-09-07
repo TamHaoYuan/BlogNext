@@ -54,7 +54,7 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://i2.hdslb.com/bfs/new_dyn/365f13780d080898083007ce754bd78c384667818.jpg",
+    "./banner.webp",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
