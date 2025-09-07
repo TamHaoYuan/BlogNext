@@ -1,5 +1,12 @@
-# Special thanks to:
+# 关于我
 
-- [Hexo Shoka theme](https://github.com/amehime/hexo-theme-shoka) for providing design inspiration
+## **很高兴认识你！**
 
-- [Astro Fuwari template](https://github.com/saicaca/fuwari) for providing the main design concept and part of the implementation
+我是一名居住在大湾区一个**破烂小县城的中学生**
+你可以叫我 **一元钱yiyuan**
+（至于为什么会有这个名字，是因为别人起的，久而久之就习惯了）
+
+**ACGN 爱好者**，成分超级复杂
+喜欢各种**与计算机有关的东西** 喜欢折腾关于科技的任何事物
+曾经混 **iOS 越狱圈**、**Android 刷机圈**
+学过一点点（真的只有一点点）**Python 和 C++**，拿过几个没用的奖项
