@@ -26,8 +26,12 @@ const YukinaConfig: Configuration = {
       href: "/about",
     },
     {
+      nameKey: I18nKeys.nav_bar_link,
+      href: "/link",
+    },
+    {
       nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
+      href: "https://github.com/TamHaoYuan/Blognext",
     },
   ],
 
@@ -50,14 +54,14 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://s2.loli.net/2025/01/25/PBvHFjr5yDu6t4a.webp",
-    "https://s2.loli.net/2025/01/25/6bKcwHZigzlM4mJ.webp",
-    "https://s2.loli.net/2025/01/25/H9WgEK6qNTcpFiS.webp",
-    "https://s2.loli.net/2025/01/25/njNVtuUMzxs81RI.webp",
-    "https://s2.loli.net/2025/01/25/tozsJ8QHAjFN3Mm.webp",
-    "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
-    "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
-    "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
+    "https://i2.hdslb.com/bfs/new_dyn/365f13780d080898083007ce754bd78c384667818.jpg@1052w_!web-dynamic.avif",
+    "https://i2.hdslb.com/bfs/new_dyn/2c0db353976fddc1f41e274868cb036a384667818.jpg@1052w_!web-dynamic.avif",
+    "https://i2.hdslb.com/bfs/new_dyn/af550f7a1649569bc03144504486d7ce384667818.jpg@1052w_!web-dynamic.avif",
+    "https://i2.hdslb.com/bfs/new_dyn/17de57828f758279eec225af69dcaf66384667818.jpg@1052w_!web-dynamic.avif",
+    "https://i2.hdslb.com/bfs/new_dyn/23994030cca80cd27005cd12ef49362c384667818.jpg@1052w_!web-dynamic.avif",
+    "https://i2.hdslb.com/bfs/new_dyn/365f13780d080898083007ce754bd78c384667818.jpg@1052w_!web-dynamic.avif",
+    "https://i2.hdslb.com/bfs/new_dyn/ba8ce6b626ab3c97b48c58cf4e85a144172873598.jpg@1052w_!web-dynamic.avif",
+    "https://i2.hdslb.com/bfs/new_dyn/16a5d157cf52cfa66497470cf3a73e48172873598.jpg@1052w_!web-dynamic.avif",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
