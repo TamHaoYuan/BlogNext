@@ -2,9 +2,9 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yiyuan",
-  subTitle: "Yiyuan's Blog",
-  brandTitle: "Yiyuan's Blog",
+  title: "一元钱的奇妙日常",
+  subTitle: "Yiyuan's Blog&vlog&weblog",
+  brandTitle: "一元钱的奇妙日常",
 
   description: "Yiyuan的日常",
 
@@ -37,7 +37,7 @@ const YukinaConfig: Configuration = {
 
   username: "一元钱Yiyuan",
   sign: "Non est ad astra mollis e terris via.",
-  avatarUrl: "https://tamhaoyuan.github.io/img/avatar_hu_ca0d867dd8cbb070.png",
+  avatarUrl: "/public/fa.svg",
   socialLinks: [
     {
       icon: "line-md:github-loop",
@@ -54,7 +54,7 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "./banner.webp",
+    "/public/banner.webp",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
